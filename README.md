@@ -18,7 +18,7 @@ Install requirements:
 
 Run development server:
 
-    cactus develop
+    cactus serve
 
 If you want to make build run:
 
